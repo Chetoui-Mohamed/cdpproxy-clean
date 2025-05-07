@@ -1,0 +1,227 @@
+[
+  {
+    "duration": 0,
+    "reason": "UNVERIFIED_LOCATOR after 1 attempts over 0ms",
+    "selector": "h1",
+    "sessionId": "71520351-b18c-8cac-3453-9c49120a6bf5",
+    "type": "CSS",
+    "timestamp": 1746614214233,
+    "attempts": 1
+  },
+  {
+    "duration": 4755,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4755ms",
+    "selector": "#non-existent-button",
+    "sessionId": "71520351-b18c-8cac-3453-9c49120a6bf5",
+    "type": "CSS",
+    "timestamp": 1746614220262,
+    "attempts": 14
+  },
+  {
+    "duration": 4715,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4715ms",
+    "selector": "#non-existent-button",
+    "sessionId": "00fd81b0-9b65-8686-6da3-1c03272d7acc",
+    "type": "CSS",
+    "timestamp": 1746615862594,
+    "attempts": 14
+  },
+  {
+    "duration": 4703,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4703ms",
+    "selector": "#non-existent-button",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624593789,
+    "attempts": 14
+  },
+  {
+    "duration": 4670,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4670ms",
+    "selector": ".missing-class-name",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624597827,
+    "attempts": 14
+  },
+  {
+    "duration": 4791,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4791ms",
+    "selector": "div.container > ul.list > li.item > button.action",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624603851,
+    "attempts": 14
+  },
+  {
+    "duration": 4686,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4686ms",
+    "selector": "button.more-info",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624607873,
+    "attempts": 14
+  },
+  {
+    "duration": 4971,
+    "reason": "UNVERIFIED_LOCATOR after 35 attempts over 4971ms",
+    "selector": "#element-that-doesnt-exist",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624613910,
+    "attempts": 35
+  },
+  {
+    "duration": 386,
+    "reason": "UNVERIFIED_LOCATOR after 6 attempts over 386ms",
+    "selector": "#non-existent-with-short-timeout",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624614378,
+    "attempts": 6
+  },
+  {
+    "duration": 2548,
+    "reason": "UNVERIFIED_LOCATOR after 10 attempts over 2548ms",
+    "selector": "footer",
+    "sessionId": "08a16221-028f-3000-fae6-82e0e7361348",
+    "type": "CSS",
+    "timestamp": 1746624619939,
+    "attempts": 10
+  },
+  {
+    "duration": 4659,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4659ms",
+    "selector": "#non-existent-button",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625786900,
+    "attempts": 14
+  },
+  {
+    "duration": 4564,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4564ms",
+    "selector": ".missing-class-name",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625790942,
+    "attempts": 14
+  },
+  {
+    "duration": 4647,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4647ms",
+    "selector": "div.container > ul.list > li.item > button.action",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625796964,
+    "attempts": 14
+  },
+  {
+    "duration": 4667,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4667ms",
+    "selector": "button.more-info",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625801001,
+    "attempts": 14
+  },
+  {
+    "duration": 4942,
+    "reason": "UNVERIFIED_LOCATOR after 35 attempts over 4942ms",
+    "selector": "#element-that-doesnt-exist",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625807024,
+    "attempts": 35
+  },
+  {
+    "duration": 419,
+    "reason": "UNVERIFIED_LOCATOR after 6 attempts over 419ms",
+    "selector": "#non-existent-with-short-timeout",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625809082,
+    "attempts": 6
+  },
+  {
+    "duration": 2505,
+    "reason": "UNVERIFIED_LOCATOR after 10 attempts over 2505ms",
+    "selector": "footer",
+    "sessionId": "b225544d-16a1-4786-758f-96e01d724646",
+    "type": "CSS",
+    "timestamp": 1746625813112,
+    "attempts": 10
+  },
+  {
+    "duration": 1939,
+    "reason": "UNVERIFIED_LOCATOR after 9 attempts over 1939ms",
+    "selector": "//button[@id=\"non-existent-xpathbutton\"]",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "XPATH",
+    "timestamp": 1746625982361,
+    "attempts": 9
+  },
+  {
+    "duration": 4607,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4607ms",
+    "selector": "#non-existent-button",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746625987873,
+    "attempts": 14
+  },
+  {
+    "duration": 4562,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4562ms",
+    "selector": ".missing-class-name",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746625991904,
+    "attempts": 14
+  },
+  {
+    "duration": 4666,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4666ms",
+    "selector": "div.container > ul.list > li.item > button.action",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746625997935,
+    "attempts": 14
+  },
+  {
+    "duration": 4596,
+    "reason": "UNVERIFIED_LOCATOR after 14 attempts over 4596ms",
+    "selector": "button.more-info",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746626001958,
+    "attempts": 14
+  },
+  {
+    "duration": 4941,
+    "reason": "UNVERIFIED_LOCATOR after 35 attempts over 4941ms",
+    "selector": "#element-that-doesnt-exist",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746626007985,
+    "attempts": 35
+  },
+  {
+    "duration": 418,
+    "reason": "UNVERIFIED_LOCATOR after 6 attempts over 418ms",
+    "selector": "#non-existent-with-short-timeout",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746626008496,
+    "attempts": 6
+  },
+  {
+    "duration": 2536,
+    "reason": "UNVERIFIED_LOCATOR after 10 attempts over 2536ms",
+    "selector": "footer",
+    "sessionId": "7acd6e0b-7537-5bbe-252a-f9d216327688",
+    "type": "CSS",
+    "timestamp": 1746626014015,
+    "attempts": 10
+  }
+]

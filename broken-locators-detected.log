@@ -1,0 +1,19 @@
+=== BROKEN LOCATOR DETECTION LOG - STARTED 2025-05-02 13:42:31.134 ===
+
+TIMESTAMP | SESSION | SELECTOR | ATTEMPTS | DURATION_MS | REASON
+----------------------------------------------------------------------------
+2025-05-07 14:49:46.887 | b225544d-16a1-4786-758f-96e01d724646 | CSS | #non-existent-button | 14 | 4659 | UNVERIFIED_LOCATOR after 14 attempts over 4659ms
+2025-05-07 14:49:50.941 | b225544d-16a1-4786-758f-96e01d724646 | CSS | .missing-class-name | 14 | 4564 | UNVERIFIED_LOCATOR after 14 attempts over 4564ms
+2025-05-07 14:49:56.961 | b225544d-16a1-4786-758f-96e01d724646 | CSS | div.container > ul.list > li.item > button.action | 14 | 4647 | UNVERIFIED_LOCATOR after 14 attempts over 4647ms
+2025-05-07 14:50:00.999 | b225544d-16a1-4786-758f-96e01d724646 | CSS | button.more-info | 14 | 4667 | UNVERIFIED_LOCATOR after 14 attempts over 4667ms
+2025-05-07 14:50:07.023 | b225544d-16a1-4786-758f-96e01d724646 | CSS | #element-that-doesnt-exist | 35 | 4942 | UNVERIFIED_LOCATOR after 35 attempts over 4942ms
+2025-05-07 14:50:09.031 | b225544d-16a1-4786-758f-96e01d724646 | CSS | #non-existent-with-short-timeout | 6 | 419 | UNVERIFIED_LOCATOR after 6 attempts over 419ms
+2025-05-07 14:50:13.110 | b225544d-16a1-4786-758f-96e01d724646 | CSS | footer | 10 | 2505 | UNVERIFIED_LOCATOR after 10 attempts over 2505ms
+2025-05-07 14:53:02.357 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | XPATH | //button[@id="non-existent-xpathbutton"] | 9 | 1939 | UNVERIFIED_LOCATOR after 9 attempts over 1939ms
+2025-05-07 14:53:07.870 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | #non-existent-button | 14 | 4607 | UNVERIFIED_LOCATOR after 14 attempts over 4607ms
+2025-05-07 14:53:11.902 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | .missing-class-name | 14 | 4562 | UNVERIFIED_LOCATOR after 14 attempts over 4562ms
+2025-05-07 14:53:17.933 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | div.container > ul.list > li.item > button.action | 14 | 4666 | UNVERIFIED_LOCATOR after 14 attempts over 4666ms
+2025-05-07 14:53:21.954 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | button.more-info | 14 | 4596 | UNVERIFIED_LOCATOR after 14 attempts over 4596ms
+2025-05-07 14:53:27.983 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | #element-that-doesnt-exist | 35 | 4941 | UNVERIFIED_LOCATOR after 35 attempts over 4941ms
+2025-05-07 14:53:28.494 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | #non-existent-with-short-timeout | 6 | 418 | UNVERIFIED_LOCATOR after 6 attempts over 418ms
+2025-05-07 14:53:34.009 | 7acd6e0b-7537-5bbe-252a-f9d216327688 | CSS | footer | 10 | 2536 | UNVERIFIED_LOCATOR after 10 attempts over 2536ms
